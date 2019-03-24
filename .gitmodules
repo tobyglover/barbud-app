@@ -1,0 +1,3 @@
+[submodule "modules/react-native-credit-card-input"]
+	path = modules/react-native-credit-card-input
+	url = git@github.com:sbycrosz/react-native-credit-card-input.git
